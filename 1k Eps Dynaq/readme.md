@@ -1,0 +1,3 @@
+- Low Learning Rate
+- Low Discount Factor
+- High Exploration Rate
